@@ -6,5 +6,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img src=" https://icongr.am/devicon/debian-original-wordmark.svg?size=128&color=currentColor " width="40" height="40"/>
+<img src="https://icongr.am/devicon/debian-original-wordmark.svg?size=128&color=currentColor" width="40" height="40"/>
 
